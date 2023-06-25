@@ -2,7 +2,7 @@
   <img src="https://robotnik.eu/wp-content/uploads/2022/05/Robotnik_Blog_Qu%C3%A9-lenguaje-de-programaci%C3%B3n-usan-los-robots_220510.jpg" width="800"/>
 </div>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=F75EAC&width=435&lines=Hello+I'm+Emmily+%F0%9F%91%8B%F0%9F%98%84;a+web+backend+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=F75EAC&width=435&lines=Hello+I'm+Emmily+%F0%9F%91%8B%F0%9F%98%84;a+web+developer" alt="Typing SVG" /></a>
     <h3 align="center">
     💻Passionate about programming, always looking to learn new technologies and improve my skills✨  
     <h3/>
