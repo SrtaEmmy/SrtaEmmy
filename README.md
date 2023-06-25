@@ -11,7 +11,7 @@
    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
   <a/> -->
 
-  <a href="https://ileriayo.github.io/markdown-badges/#markdown-badges" target="_blank">
+  <a href="https://www.linkedin.com/in/emmily-santos-a6851327b/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a/>
     
