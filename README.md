@@ -12,7 +12,7 @@
   <a/> -->
 
   <a href="www.linkedin.com/in/emmily-santos-a6851327b">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=hotpink"/>
+    <img src="www.linkedin.com/in/emmily-santos-a6851327b"/>
   <a/>
     
 <div/>
