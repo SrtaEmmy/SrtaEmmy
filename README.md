@@ -6,6 +6,7 @@
     <h3 align="center">
     💻Passionate about programming, always looking to learn new technologies and improve my skills✨  
     <h3/>
+https://img.shields.io/badge/:badgeContent
 
 
 
