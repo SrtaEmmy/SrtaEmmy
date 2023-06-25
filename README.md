@@ -8,10 +8,15 @@
     <h3/>
 
 <div id="badge" align="center">
-  <a href="">
-<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
-    <a/>
-  <div/>
+<!--   <a href="">
+   <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
+  <a/> -->
+
+  <a href="www.linkedin.com/in/emmily-santos-a6851327b">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=hotpink"/>
+  <a/>
+    
+<div/>
 
 
 
