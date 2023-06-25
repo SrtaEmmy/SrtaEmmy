@@ -17,20 +17,20 @@
     
 <div/>
 
-
+<hr>
 <h1 align="center">About me📚<h1/>
+<h6 align="left">
 <pre>
--I am a Web Application Development student💻
+-I am a Web Application Development student💻<br>
 
 -My skills: Node.js ⚙️ JavaScript 🌐 MongoDB 🍃 SQL 🗃️
 
 -Email📧:programming.emmy123@gmail.com
 
 -Currently, I am learning more about REST APIs. 🌐
-
-
-
 </pre>
+
+</h6>
 
 
 
