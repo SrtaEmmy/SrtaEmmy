@@ -44,5 +44,7 @@
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/mysql-workbench-icon.png" width="40"/>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40"/>
 
+<hr>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=SrtaEmmy&theme=sunset-gradient&border_radius=30&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
