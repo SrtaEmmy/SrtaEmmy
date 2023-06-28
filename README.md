@@ -24,7 +24,7 @@
 <pre>
 -I am a Web Application Development student💻<br>
 
--My skills: Node.js⚙️ JavaScript💡 MongoDB🍃 SQL🗃️ HTML, CSS, JS💛, Bootstrap
+-My skills: Node.js⚙️ JavaScript💡 MongoDB🍃 SQL🗃️ HTML, CSS, JS💛 Bootstrap
 
 -Email📧:programming.emmy123@gmail.com
 
