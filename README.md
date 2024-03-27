@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*wPkJWpI-_ccTEvhiB1zIOQ.gif" width="800"/>
+  <img src="https://raw.githubusercontent.com/DEVSENSE/phptools-docs/master/docs/vscode/imgs/completion-tooltip.gif" width="800"/>
 </div>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=F75EAC&width=435&lines=Hello+I'm+Emmily+%F0%9F%91%8B%F0%9F%98%84;a+web+developer" alt="Typing SVG" /></a>
@@ -22,13 +22,13 @@
 <h1 align="center">About me👩🏻<h1/>
 <h6 align="left">
 <pre>
--I am a Web Application Development student💻<br>
+-I am a back-end Web Development 💻<br>
 
--My skills: Node.js⚙️ JavaScript💡 MongoDB🍃 SQL🗃️ HTML, CSS, JS💛 Bootstrap
+-My skills: PHP🐘, Laravel, Node.js⚙️ JavaScript💡 MongoDB🍃 SQL🗃️ HTML, CSS, JS💛 Bootstrap🎨
 
 -Email📧:programming.emmy123@gmail.com
 
--Currently, I am learning more about REST APIs. 🌐
+-Currently, I am learning more about Symfony.🎻
 </pre>
 
 </h6>
