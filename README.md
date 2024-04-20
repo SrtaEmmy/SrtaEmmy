@@ -45,7 +45,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="45" height="45"/>
 <img src="https://miro.medium.com/v2/resize:fit:365/1*Jr3NFSKTfQWRUyjblBSKeg.png" width="55" height="40"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3629020-3030245.png" width="40"/>
-<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/mysql-workbench-icon.png" width="40"/>
+<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/mysql-workbench-icon.png" width="50" height="50"/>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40"/>
 
 
