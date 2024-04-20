@@ -2,15 +2,15 @@
   <img src="https://raw.githubusercontent.com/DEVSENSE/phptools-docs/master/docs/vscode/imgs/completion-tooltip.gif" width="800"/>
 </div>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=F75EAC&width=435&lines=Hello+I'm+Emmily+%F0%9F%91%8B%F0%9F%98%84;a+web+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=F75EAC&width=435&lines=Hola+soy+Emmily+%F0%9F%91%8B%F0%9F%98%84;desarrolladora+web" alt="Typing SVG" /></a>
     <h3 align="center">
-    💻Passionate about programming, always looking to learn new technologies and improve my skills✨  
+    💻De código humilde pero mejorando cada día❤️‍🩹  
     <h3/>
 
 <div id="badge" align="center">
 <!--   <a href="">
    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
-  <a/> -->
+<a/> -->
 
   <a href="https://www.linkedin.com/in/emmily-santos-a6851327b/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -19,23 +19,23 @@
 <div/>
 
 <hr>
-<h1 align="center">About me👩🏻<h1/>
+<h1 align="center">Sobre mí👩🏻<h1/>
 <h6 align="left">
 <pre>
--I am a back-end Web Development 💻<br>
+-Programadora back-end 💻<br>
 
--My skills: PHP🐘, Laravel, Node.js⚙️ JavaScript💡 MongoDB🍃 SQL🗃️ HTML, CSS, JS💛 Bootstrap🎨
+-Graduada en DAW y certificado profesional de Friki autodidacta🎓📝
 
--Email📧:programming.emmy123@gmail.com
+-Email📧: programming.emmy123@gmail.com
 
--Currently, I am learning more about Symfony.🎻
+-Lema: practicar, practicar y practicar.💻🎻
 </pre>
 
 </h6>
 
 <hr>
 
-<h1 align="center">technologies🤖<h1/>
+<h1 align="center">Tecnologías Principales🤖<h1/>
 
 <img src="https://www.php.net/images/meta-image.png" width="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="40"/>
