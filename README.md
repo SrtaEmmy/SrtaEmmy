@@ -42,6 +42,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="45" height="45"/>
 <img src="https://miro.medium.com/v2/resize:fit:365/1*Jr3NFSKTfQWRUyjblBSKeg.png" width="55" height="40"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3629020-3030245.png" width="40"/>
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/mysql-workbench-icon.png" width="40"/>
