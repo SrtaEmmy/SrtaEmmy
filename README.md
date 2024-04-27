@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/DEVSENSE/phptools-docs/master/docs/vscode/imgs/completion-tooltip.gif" width="800"/>
 </div>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=F75EAC&width=435&lines=Hola+soy+Emmily+%F0%9F%91%8B%F0%9F%98%84;desarrolladora+web" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=F75EAC&width=435&lines=Hola+Mundo,+soy+Emmily+%F0%9F%91%8B%F0%9F%98%84;desarrolladora+web" alt="Typing SVG" /></a>
     <h3 align="center">
     💻De código humilde pero mejorando cada día❤️‍🩹  
     <h3/>
